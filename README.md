@@ -6,6 +6,7 @@ Try Learning Data Structures and Algorithms with javascript along with some prob
 
 - [Devtools: PS in js and react](https://www.devtools.tech/lists/all)
 - [Learnersbucket: All](https://learnersbucket.com/examples/)
+- [Github: Javascript DSA](https://github.com/trekhleb/javascript-algorithms)
 
 ## Data Structures
 
