@@ -8,9 +8,41 @@ Try Learning Data Structures and Algorithms with javascript along with some prob
 - [Learnersbucket: All](https://learnersbucket.com/examples/)
 - [Github: Javascript DSA](https://github.com/trekhleb/javascript-algorithms)
 
+### Basics of Programming
+
+## Patterns for DSA
+
+- Backtracking
+- Greedy
+- Dynamic Programming
+- Divide and Conquer
+- Branch and Bound
+- Recursion
+- Memoization
+- Bit Manipulation
+- Sliding Window
+- Two Pointers
+- Fast and Slow Pointers
+- Merge Intervals
+- Cyclic Sort
+
 ## Data Structures
 
+- Array
+- String
+- Linked List
+- Stack
+- Queue
+- HashMaps
+- Heap
+- Tree
+- Graph
+
 ## Algorithms
+
+- Searching
+- Sorting
+- Recursion
 
 ## Problem Solving in Javascript
 
