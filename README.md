@@ -1,12 +1,16 @@
 # DSA_and_PS_with_JS
 
-Try Learning Data Structures and Algorithms with javascript along with some problem solving practise for better understanding.
+Learning DSA with javascript along with practising problem solving ( React.js and Javascript ) for better understanding and interview.
 
-### Best Sites
+### RESOURCES and PRACTICING SITES
 
 - [Devtools: PS in js and react](https://www.devtools.tech/lists/all)
+- [Algochurn: PS in js and react](https://www.algochurn.com/)
+- [Leetcode: DSA and PS in js](https://leetcode.com/problemset/all/)
+- [Codewars: DSA and PS in js](https://www.codewars.com/dashboard)
+- [Neetcode: DSA in js](https://neetcode.io/practice)
+- [Codedamn: Roadmap for DSA](https://codedamn.com/learning-paths/data-structures-and-algorithms)
 - [Learnersbucket: All](https://learnersbucket.com/examples/)
-- [Github: Javascript DSA](https://github.com/trekhleb/javascript-algorithms)
 
 ### Basics of Programming
 
@@ -46,8 +50,4 @@ Try Learning Data Structures and Algorithms with javascript along with some prob
 
 ## Problem Solving in Javascript
 
-- [Algochurn- Javascript](https://www.algochurn.com/problems)
-
 ## Problem Solving in React.js
-
-- [Algochurn- ReactJS](https://www.algochurn.com/frontend)
